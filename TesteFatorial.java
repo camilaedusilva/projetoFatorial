@@ -4,7 +4,7 @@ class TesteFatorial {
 	//comentario inserido teste
 	pulic static void main(string[] args){
 		Fatorial fat = new Fatorial();
-		int resultado = fat.calcularFatorial(0);
+		int resultado = fat.calcularFatorial(4);
 		system.out.println(resultado);
 	}
 }
