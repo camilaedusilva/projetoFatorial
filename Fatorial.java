@@ -1,7 +1,8 @@
-public class Fatorial {
+﻿public class Fatorial {
 	//teste
 	//teste de Branch
 	//versão interativa do calculo do Fatorial
+	//incluindo teste de conflito curso
 	public static int calcularFatorial(int n){
 		int resultado = 1;
 
